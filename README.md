@@ -3,7 +3,6 @@ Este relatório visa simplificar a tomada de decisão, transformando dados técn
 
 ## Relatório de Desempenho de Vendas e Promoções
 
-<br>
 
 ### 1. Panorama Geral e Evolução das Vendas
 Observamos uma tendência de crescimento consistente no volume de vendas ao longo do período analisado. A evolução mensal indica que as estratégias de expansão de mercado estão surtindo efeito no faturamento bruto.
