@@ -37,7 +37,5 @@ Respondendo à dúvida sobre se os descontos impactam positivamente a receita:
 * **Revisão de Descontos Agressivos**: Reavaliar promoções que reduzem a margem abaixo do ponto de equilíbrio, substituindo-as por benefícios não monetários (como brindes ou fidelidade).
   
 * **Monitoramento Contínuo**: Manter a atualização frequente do painel Power BI para identificar rapidamente mudanças no comportamento de compra do consumidor.
-
-<br>
-
+---
 [Portfólio: Jhemerson Oliveira.](https://portfolio-jhemerson-oliveira.lovable.app/)
