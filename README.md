@@ -3,39 +3,30 @@ Este relatório visa simplificar a tomada de decisão, transformando dados técn
 
 ## Relatório de Desempenho de Vendas e Promoções
 
+### 1. Sumário Executivo:
 
-### 1. Panorama Geral e Evolução das Vendas
-Observamos uma tendência de crescimento consistente no volume de vendas ao longo do período analisado. A evolução mensal indica que as estratégias de expansão de mercado estão surtindo efeito no faturamento bruto.
+O negócio apresenta uma saúde financeira sólida, com faturamento total de **R$ 2,60 Bilhões** e uma margem de lucro estável de **49,40%**. O volume de vendas atingiu a marca de **10.314 mil unidades**.
 
-* **Ranking de Produtos**: O portfólio apresenta alguns "produtos estrela" que concentram a maior parte da receita, enquanto categorias secundárias ainda possuem espaço para maturação.
+### 2. Análise de Vendas e Faturamento:
 
-* **Comparação por Categorias**: A categoria de produtos principais mantém uma performance estável, enquanto novas categorias inseridas recentemente demonstram uma curva de aprendizado acelerada.
+O faturamento consolidado teve um crescimento anual (YoY) de **27,48%**, indicando uma expansão agressiva do mercado.
 
-<br>
+* **Tendência Semestral**: O pico de faturamento ocorreu no 2º semestre de 2007 com **R$ 594 Mi**, seguido por uma trajetória de ajuste.
+* **Gestão de Descontos**: No período de maior faturamento, os descontos totalizaram **R$ 66 Mi**. A análise mostra que a ausência de descontos "No Discount" oferece a maior margem percentual **66,87%**, sugerindo que a estratégia de preço cheio deve ser priorizada onde houver valor agregado.
+* **Impacto de Promoções**: Promoções sazonais, como a "North America Spring Promotion", mantêm margens saudáveis acima de **60%**, sendo uma estrategia eficaz para escoamento do volume sem perda crítica de rentabilidade.
 
-### 2. Eficácia das Promoções: O que funciona?
-A análise detalhada por tipo de promoção revela que nem todos os incentivos geram o mesmo retorno.
+### 3. Mix de Produtos e Categorias:
+   
+O portfólio está concentrado em setores de alta tecnologia e eletrodomésticos.
 
-* **Análise de Margem**: Promoções focadas em "Volume" (ex: Leve 3, Pague 2) apresentaram uma manutenção de margem mais saudável em comparação aos descontos diretos em percentual, que tendem a corroer o lucro unitário de forma mais agressiva.
-  
-* **Impacto nas Vendas**: Identificamos que as promoções sazonais aumentam o tráfego e o volume total, mas o "giro" de estoque gerado precisa ser equilibrado com o custo da mercadoria vendida para não prejudicar o resultado líquido.
+* **Liderança de Categoria**: "Computers" lidera o ranking com **R$ 704 Mi**, seguido de perto por "Home Appliances" com **R$ 702 Mi**. Ambas as categorias representam, cada uma, **29%** do volume total de vendas.
 
-<br>
+**Perfil da Linha de Produtos:**
+* **Regular**: Domina o mix com **57,6%**.
+* **Deluxe**: Representa **27,05%**.
+* **Economy**: Compõe **15,35%**.
+* **Produtos Estrela**: O "Proseware Projector 1080p DLP86 White" é o item mais vendido, com volumes consistentes **acima de 20 mil unidades** nos modelos principais.
 
-### 3. Impacto dos Descontos na Receita e Rentabilidade
-Respondendo à dúvida sobre se os descontos impactam positivamente a receita:
 
-* **Resultado Positivo em Volume**: Sim, há um aumento claro na receita bruta durante os períodos promocionais.
-  
-* **Atenção à Margem**: Embora a receita suba, a rentabilidade (margem líquida) sofreu retrações em categorias específicas onde o desconto aplicado foi superior a 20%. O ideal é manter os descontos dentro da faixa de 10% a 15% para garantir que o aumento no volume compense a redução do preço.
-
-<br>
-
-### 4. Recomendações Estratégicas
-* **Foco no Top 5**: Concentrar os esforços de marketing nos produtos que já lideram o ranking de vendas para potencializar o fluxo de caixa.
-  
-* **Revisão de Descontos Agressivos**: Reavaliar promoções que reduzem a margem abaixo do ponto de equilíbrio, substituindo-as por benefícios não monetários (como brindes ou fidelidade).
-  
-* **Monitoramento Contínuo**: Manter a atualização frequente do painel Power BI para identificar rapidamente mudanças no comportamento de compra do consumidor.
 ---
 [Portfólio: Jhemerson Oliveira.](https://portfolio-jhemerson-oliveira.lovable.app/)
