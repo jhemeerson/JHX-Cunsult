@@ -25,6 +25,28 @@ O portfólio está concentrado em setores de alta tecnologia e eletrodomésticos
 * **Economy**: Compõe **15,35%**.
 * **Produtos Estrela**: O "Proseware Projector 1080p DLP86 White" é o item mais vendido, com volumes consistentes **acima de 20 mil unidades** nos modelos principais.
 
+## Recomendações:
+
+### 1. Estratégia de Pricing e Descontos: "Menos é Mais"
+   
+**Os dados são claros: a venda sem desconto entrega 66,87% de margem.**
+
+* **Recomendação**: Implementar uma política de Pricing Dinâmico. Em vez de descontos lineares, utilizar análise preditiva para identificar quais produtos das categorias Computers e Home Appliances possuem baixa elasticidade de preço.
+* **Ação**: Reduzir gradualmente os descontos no 2º semestre (período historicamente forte) e focar em promoções de "valor agregado" (ex: garantia estendida ou suporte premium) em vez de redução de preço direto.
+  
+### 2. Otimização do Mix: Foco na Linha "Regular"
+   
+A linha Regular domina o faturamento (**57,6%**). Ela é o **"arroz com feijão"** que sustenta a operação.
+
+* **Recomendação**: Realizar uma análise de Cesta de Compras (Market Basket Analysis). Se o cliente compra um produto Regular, como um computador, ele está levando acessórios?
+* **Ação**: Criar pacotes (bundles) que unam produtos da linha Regular com itens da linha Deluxe (que tem maior valor agregado) para elevar o Ticket Médio sem sacrificar a margem total.
+  
+### 3. Análise de Sazonalidade e Expansão de Mercado
+   
+Houve um pico de faturamento em 2007 (**R$ 594 Mi**) seguido por um ajuste. Precisamos entender se esse ajuste foi **retração de mercado** ou **perda de market share**.
+
+* **Recomendação**: Intensificar as campanhas de "Spring Promotion", que provaram manter margens acima de **60%**.
+* **Ação**: Replicar o modelo de sucesso da North America Spring Promotion para outras regiões, adaptando a sazonalidade local, para achatar a curva de queda observada após os picos semestrais.
 
 ---
 [Portfólio: Jhemerson Oliveira.](https://portfolio-jhemerson-oliveira.lovable.app/)
