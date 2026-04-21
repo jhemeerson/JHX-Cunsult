@@ -15,6 +15,14 @@ O faturamento consolidado teve um crescimento anual (YoY) de **27,48%**, indican
   
 * **Impacto de Promoções**: Promoções sazonais, como a "North America Spring Promotion", mantêm margens saudáveis acima de **60%**, sendo uma estrategia eficaz para escoamento do volume sem perda crítica de rentabilidade.
 
+  <br>
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/39cd6d46-250e-4b26-bff4-1dc5d693cbfa" />
+</div>
+
+<br>
+
 ### 2. Mix de Produtos e Categorias:
    
 O portfólio está concentrado em setores de alta tecnologia e eletrodomésticos.
@@ -29,6 +37,14 @@ O portfólio está concentrado em setores de alta tecnologia e eletrodomésticos
 * **Economy**: Compõe **15,35%**.
   
 * **Produtos Estrela**: O "Proseware Projector 1080p DLP86 White" é o item mais vendido, com volumes consistentes **acima de 20 mil unidades**.
+
+  <br>
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/695ca27a-1080-4966-84e3-8eac7c219be9" />
+</div>
+
+<br>
 
 ## Recomendações:
 
